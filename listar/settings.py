@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
     'todo',
-    'coreapi'
+    'coreapi',
     'account',
 ]
 
